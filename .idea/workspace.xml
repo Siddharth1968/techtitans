@@ -5,54 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1fc9edf-aca1-4fa6-beb2-e74c7a3c90db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/gautam/medicinetime/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/BasePresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/BaseView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/MedicineApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/addmedicine/AddMedicineActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/addmedicine/AddMedicineContract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/addmedicine/AddMedicineFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/addmedicine/AddMedicinePresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/alarm/ReminderActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/alarm/ReminderContract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/alarm/ReminderFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/alarm/ReminderPresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/History.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/MedicineAlarm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/MedicineDataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/MedicineRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/Pills.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/local/MedicineDBHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/local/MedicinesLocalDataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicineActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicineAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicineContract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicineFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicinePresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/FilterType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/HistoryAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/MonthlyReportActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/MonthlyReportContract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/MonthlyReportFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/MonthlyReportPresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/utils/ActivityUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/utils/FontUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/utils/ScrollingCalendarBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/views/DayViewCheckBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/views/RobotoBoldTextView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/views/RobotoLightTextView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/views/RobotoRegularTextView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/mock/java/com.gautam.medicinetime/Injection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/mock/java/com.gautam.medicinetime/data/FakeMedicineLocalDataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/prod/java/com.gautam.medicinetime/Injection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/gautam/medicinetime/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,10 +49,11 @@
     "Gradle.Upgrade Gradle wrapper.executor": "Run",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/prapt/OneDrive/Desktop/Medicine Reminder Android App Project"
   }
